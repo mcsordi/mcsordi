@@ -2,10 +2,8 @@
 
 ## Intro
 
-Developer since 2022, my focus this is Web development, i use in my projects:
+Developer since 2022, my focus this is Web development
 
-- Javascript
-- HTML and CSS
-- React.js (Next.js)
+[![mcsordi](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsordi&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![card](https://github-readme-stats.vercel.app/api?username=mcsordi&theme=default)](https://github.com/anuraghazra/github-readme-stats)
