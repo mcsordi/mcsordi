@@ -8,5 +8,4 @@ Developer since 2022, my focus this is Web development, i use in my projects:
 - HTML and CSS
 - React.js (Next.js)
 
-I´m studyng coding with:
-https://www.mapadaprogramacao.com.br/
+[![card](https://github-readme-stats.vercel.app/api?username=mcsordi&theme=default)](https://github.com/anuraghazra/github-readme-stats)
